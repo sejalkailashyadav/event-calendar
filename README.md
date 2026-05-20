@@ -1,17 +1,10 @@
-
----
-
 # Event Calendar Application - React 
 ## Demo : [Event-Calendar](https://charming-belekoy-3300b5.netlify.app/)
-
 ## Features
-
 ### 1. Multi-language Support
    * Implemented language support using `i18next` for seamless transition between English and Hindi.
-
 ### 2. Dark Mode
    * Integrated a dark theme option to enhance user experience during nighttime or low-light conditions.
-
 ### 3. Add, Edit, and Delete Events
    * Users can add new events (Double Click ON cell) specifying the name, date, start time, end time, description, and participants.
    * Editing functionality allows modification of existing events.
