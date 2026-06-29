@@ -28,8 +28,4 @@
 ### 3. Week View Page
    * Detailed view of a specific week.
    * Lists all events for the chosen week.
-### 4. Add/Edit Event Page
-   * A form to add a new event.
-   * If editing, this form would pre-fill with the event's existing details.
-### 5. Show Events  & can search Events 
 ---
